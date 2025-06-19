@@ -1,9 +1,7 @@
-# Fashion-Blog
-Codecademy HTML project
 <!DOCTYPE html>
 <html>
 <head> 
-<title> Everyday with ISA </title>
+<!--<title> Everyday with ISA </title>-->
 </head>
 
 <body>
